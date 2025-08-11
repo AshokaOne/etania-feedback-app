@@ -106,7 +106,7 @@ const App = () => {
                         {submitError && <p className="text-red-500 text-center text-sm mt-4">{submitError}</p>}
                     </div>
                 </form>
-                <p className="text-center text-xs text-gray-400 mt-6">Powered by Ashoka One Mall</p>
+                <p className="text-center text-xs text-gray-400 mt-6">Powered by SSDN SERVICE & SOLUTIONS</p>
             </div>
         );
     };

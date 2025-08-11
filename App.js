@@ -72,9 +72,9 @@ const App = () => {
             <div className="w-full max-w-md bg-white rounded-2xl shadow-lg p-6 md:p-8 transition-all duration-500">
                 <div className="flex flex-col items-center mb-6">
                     <div className="w-24 h-24 mb-4 p-2 border-4 border-green-500 rounded-full flex items-center justify-center">
-                        <img src="logo.png" alt="Etania Food Court Logo" className="w-full h-auto" />
+                        <img src="logo.png" alt="Eatania Food Court Logo" className="w-full h-auto" />
                     </div>
-                    <h1 className="text-2xl font-bold text-gray-800">Etania Food Court</h1>
+                    <h1 className="text-2xl font-bold text-gray-800">Eatania Food Court</h1>
                     <p className="text-gray-500 mt-1">We value your feedback!</p>
                 </div>
 

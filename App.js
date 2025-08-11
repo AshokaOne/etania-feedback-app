@@ -42,8 +42,8 @@ const App = () => {
             setSubmitError('');
 
             // --- Formspree Integration ---
-            // This URL now points to YOUR form endpoint.
-            const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xgvzdbwd'; // <-- This is now updated!
+            // This URL has been corrected with your new endpoint.
+            const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xgvzdwkd'; // <-- CORRECTED URL!
 
             try {
                 const response = await fetch(FORMSPREE_ENDPOINT, {
